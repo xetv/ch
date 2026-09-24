@@ -15,13 +15,6 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="INDONESIA",TRANS 7 
-#EXTVLCOPT:http-referrer=https://sevenhub.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
-https://raw.githubusercontent.com/xetya77/XETYATV/main/streams/trans7.m3u8
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
-
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png" group-title="INDONESIA",MENTARI TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -89,6 +82,12 @@ https://flv.intechmedia.net/live/ch101.m3u8
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch113.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 https://flv.intechmedia.net/live/ch113.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="INDONESIA",TRANS 7 HD
+#EXTVLCOPT:http-referrer=https://sevenhub.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
+https://raw.githubusercontent.com/xetya77/XETYATV/main/streams/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/garudatv.png" group-title="INDONESIA",GARUDA TV
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch104.m3u8
