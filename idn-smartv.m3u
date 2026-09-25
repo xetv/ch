@@ -51,6 +51,9 @@ https://flv.intechmedia.net/live/ch101.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/ntv.png" group-title="INDONESIA",XETV OLAHRAGA
+https://www.youtube.com/live/EpKSy3ad2qs?si=piWOqmA8IwuhG80t
+
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="INDONESIA",TVRI NASIONAL
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch113.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
