@@ -43,9 +43,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 https://flv.intechmedia.net/live/ch109.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="INDONESIA",METRO TV
-#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch101.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-https://flv.intechmedia.net/live/ch101.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="INDONESIA",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -55,9 +53,8 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 https://www.youtube.com/live/EpKSy3ad2qs?si=piWOqmA8IwuhG80t
 
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="INDONESIA",TVRI NASIONAL
-#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch113.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-https://flv.intechmedia.net/live/ch113.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvriworld.png" group-title="INDONESIA",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/index.m3u8
@@ -76,6 +73,11 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/cnbcindo.png" group-title="INDONESIA;BERITA",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/balitv.jpg" group-title="INDONESIA",BALI TV
+https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="INDONESIA",TRANS 7 HD
 #EXTVLCOPT:http-referrer=https://sevenhub.id/
@@ -130,6 +132,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch111.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="INDONESIA",METRO TV HD
+#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch101.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+https://flv.intechmedia.net/live/ch101.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/bn.png" group-title="INDONESIA",BN CHANNEL
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch112.m3u8
@@ -202,6 +209,11 @@ https://wms.klikhost.net:443/brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKApvoK_CkeV9ArM103jslchQVf_fVFo08Kw&s" group-title="INDONESIA",DMI TV
 https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="INDONESIA",TVRI NASIONAL HD
+#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch113.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+https://flv.intechmedia.net/live/ch113.m3u8
 
 #EXTINF:-1 tvg-id="TVRINTB.in" tvg-logo="https://iili.io/JmF1e14.png" group-title="SEMUA TV ONLINE" http-referrer="" http-user-agent="",TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
