@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetv/ch/refs/heads/main/lg/xetvsports.jpg" group-title="INDONESIA",XETV OLAHRAGA
+https://www.youtube.com/live/zfEVhQapPz8?si=rS-IJeSh1BpwDBM4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA",SCTV
@@ -141,9 +144,6 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
 
 #EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="XETV" ,XETV INFO
 http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/Keterbatasan-haksiar.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetv/ch/refs/heads/main/lg/xetvsports.jpg" group-title="XETV" ,XETV SPORTS 1
-https://www.youtube.com/live/EpKSy3ad2qs?si=piWOqmA8IwuhG80t
 
 #EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="XETV" ,XETV SPORTS 2
 http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/Keterbatasan-haksiar.mp4
