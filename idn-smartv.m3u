@@ -29,6 +29,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetv/ch/refs/heads/main/lg/xetvsports.jpg" group-title="INDONESIA",XETV OLAHRAGA
+https://www.youtube.com/live/zfEVhQapPz8?si=rS-IJeSh1BpwDBM4
+
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA",INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -48,9 +51,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-id="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="INDONESIA",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetv/ch/refs/heads/main/lg/xetvsports.jpg" group-title="INDONESIA",XETV OLAHRAGA
-https://www.youtube.com/live/EpKSy3ad2qs?si=piWOqmA8IwuhG80t
 
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="INDONESIA",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
