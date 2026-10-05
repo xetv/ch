@@ -1,10 +1,18 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TRANSTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA",TRANS TV
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/Keterbatasan-haksiar.mp4
+#####https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="INDONESIA",TRANS 7
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/Keterbatasan-haksiar.mp4
+#####https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="INDONESIA",TRANS 7 HD
+#EXTVLCOPT:http-referrer=https://sevenhub.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
+https://raw.githubusercontent.com/xetya77/XETYATV/main/streams/trans7.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
@@ -78,12 +86,6 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-name="BALI TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/balitv.jpg" group-title="INDONESIA",BALI TV
 https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="INDONESIA",TRANS 7 HD
-#EXTVLCOPT:http-referrer=https://sevenhub.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
-https://raw.githubusercontent.com/xetya77/XETYATV/main/streams/trans7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
