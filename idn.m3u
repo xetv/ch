@@ -209,17 +209,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
-#EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkjJQwE5jnI7lw_eKYLTgsnrx-Z2eqlmcTjKN0JXS8Y3hGJlErDgi6YoPimYFOhaI8dZY0PyeTfYS15SAUHcfCT-Pt4MRFP6Ccf0WKPi0cWqcaiPAJFbPmWrvaTZ83gqpbN1XG4qiqV3Szt-O27na-_h78voB8njGs5xsISPxOvVR6mSyQ1HRIr8D893s/s700/BAdventure.png" group-title="INDONESIA",BIZNET ADVENTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jWGMdq85wZsacNqIpEg0dYkXebmNp_ynKhxRjZYNdqQpH4Eq8ZZyX3AaNr98CprUhufgaqJw___l0WStdiehw-X_Noz0pvkc13zpnuWfiKR6lnaw6CY3cIeYU7d1P4C2sfTHZ6YeMdkJoDUIr-rLlt9sOdrGOYZN2k4rIsH4Naqa6sgNewqtc33dIQY/s700/BKids.png" group-title="INDONESIA",BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ZVYJ5VbrTjjUqVM7x2xILxhpmYeFv076zJJMKY10b3fy_DhXnOk85fFNz-PNYiyHhYmdRu1_a0VrXQOsraN1yzTKlz-4ILemXla8Tac7yP2ohgnZc1PisPl3gUlotpKLy9znTDwwPRmOM6l93ITUsKPJGwN3XBz7SJGt4IORa-6u-vABkmRk4Mzq8Qk/s700/BiznetKids.png" group-title="INDONESIA",BIZNET KIDS
-#EXTVLCOPT:http-referrer=http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=http://www.biznetvideo.net
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.tvku.tv/tvkuweb/v2/assets/ourexpertise/2022-02-28-22-29-44.png" group-title="INDONESIA",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
@@ -350,3 +339,26 @@ https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTINF:-1 tvg-id="TVRIPapuaBarat.in" tvg-logo="https://iili.io/d9HAivV.png" group-title="DAERAH" http-referrer="" http-user-agent="",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206|user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"}
+#EXTINF:-1 tvg-id="Motorvision" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="OLAHRAGA",MOTORVISION+
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://cdn.motorsport.com/images/mgl/YN1RZ4b2/s1000/motogp-logo.jpg" group-title="OLAHRAGA",MOTOGP CHANNEL
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="OLAHRAGA",F1 TV
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
