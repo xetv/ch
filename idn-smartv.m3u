@@ -48,10 +48,10 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mdtv.png" group-title="INDONESIA",MDTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvone.png" group-title="INDONESIA",TVONE
-#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch109.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-https://flv.intechmedia.net/live/ch109.m3u8
+#EXTINF:-1 tvg-id="tvOne.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="INDONESIA",TVONE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-densxvisionhd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="INDONESIA",METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
@@ -135,6 +135,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 https://flv.intechmedia.net/live/ch111.m3u8
 
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvone.png" group-title="INDONESIA",TVONE HD
+#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch109.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+https://flv.intechmedia.net/live/ch109.m3u8
+
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="INDONESIA",METRO TV HD
 #EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch101.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
@@ -161,6 +166,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Berita Satu.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA",BERITASATU
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+
+#EXTINF:-1 tvg-id="Dens Food Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="INDONESIA",DENS FOOD
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206|user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"}
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8
 
 #EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="INDONESIA",DENS PLAY
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
